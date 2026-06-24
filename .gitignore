@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# Runtime logs and temporary checks
+*.log
+headers.txt
+page_check.html
+favicon_check.ico
+HVAC检索智能体运行日志.txt
+
+# Build output
+build/
+dist/
+*.toc
+*.pkg
+*.pyz
+warn-*.txt
+xref-*.html
+
+# Coursework process / generated reports
+提交材料/
+过程/
+ppt_outline_assets/
+*.pdf
+*.docx
+build_ppt_outline_pdf.py
+build_ppt_outline_pdf_v2.py
+build_process_pdf.py
+build_submit_docs.py
+rebuild_docx_1_3.py
+rebuild_submit_docs_plain.py
+
+# Downloaded papers / user exports
+*文献汇总/
+downloads/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
